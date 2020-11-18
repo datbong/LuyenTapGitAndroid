@@ -42,4 +42,6 @@ dependencies {
     implementation 'androidX.viewpager2:viewpager2:1.2.1'
     //circle image
     implementation 'de.hdodenhof:circleimageview:3.1.0'
+    //tao conflig
+    //jfafhjakf
 }
